@@ -10,7 +10,7 @@ The dashboard is designed to be interactive, intuitive, and insightful, enabling
 ---
 
 ## 🔗 Project Link
-Explore the project and LinkedIn post:
+Explore the project:
 
 👉 https://public.tableau.com/views/TableauYSGProject1/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link  (TABLEAU PUBLIC )
 
