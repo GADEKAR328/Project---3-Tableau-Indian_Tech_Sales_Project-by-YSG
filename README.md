@@ -12,9 +12,9 @@ The dashboard is designed to be interactive, intuitive, and insightful, enabling
 ## 🔗 Project Link
 Explore the project and LinkedIn post:
 
-TABLEAU PUBLIC 👉 https://public.tableau.com/views/TableauYSGProject1/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+👉 https://public.tableau.com/views/TableauYSGProject1/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link  (TABLEAU PUBLIC )
 
-LINKEDIN 👉 https://www.linkedin.com/posts/yogesh-gadekar-a1231b189_skillcourse-tableau-dataanalytics-activity-7452000338804432896-0MWG 
+👉 https://www.linkedin.com/posts/yogesh-gadekar-a1231b189_skillcourse-tableau-dataanalytics-activity-7452000338804432896-0MWG (LINKEDIN)
 
 ---
 
