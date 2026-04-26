@@ -155,7 +155,13 @@ Different states show different product preferences → useful for regional targ
 ---
 
 ## 📷 Dashboard Preview
-(Add your Tableau dashboard screenshot here)
+## 📊 Interactive Dashboard Preview
+
+<p align="center">
+  <a href="https://github.com/GADEKAR328/Project---3-Tableau-Indian_Tech_Sales_Project-by-YSG">
+    <img src="https://raw.githubusercontent.com/GADEKAR328/Project---3-Tableau-Indian_Tech_Sales_Project-by-YSG/077bbf9c5644c7ca363c80b66828dfc60c14ee2c/Project%203%20Indian%20Tech%20Sales%20Analysis%20Tableau%20YSG.jpg" width="900"/>
+  </a>
+</p>
 
 ---
 
